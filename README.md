@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VivekTrivedi</h1>
 <h3 align="center">Computing Constellations: Bachelor's in Computer Application ✨🌌</h3>
-<<img align="right"alt="coding"width="400scr="https:user-images.githubusercontent.com55389276140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
- ">
+<img align="right"alt="coding"width="400scr="https:user-images.githubusercontent.com55389276140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ 
 - I'm currently working on Project **CHATBOT**
 
 - 🌱 I’m currently learning **Web development,IOT etc**
